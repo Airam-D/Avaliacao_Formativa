@@ -2,6 +2,21 @@
 
 O **CarLog** é um aplicativo mobile completo desenvolvido em React Native e Expo, projetado para gerenciar o histórico de manutenções, trocas de peças e modificações de veículos. O aplicativo conta com persistência de dados local via **SQLite**, monitoramento de estabilidade da direção através do **Acelerômetro**, captura de coordenadas da oficina via **GPS**, registro fotográfico via **Câmera** e suporte completo a **Modo Claro (Light Mode)** e **Modo Escuro (Dark Mode)**.
 
+## 📝 Trabalho Formativo — Habilitação Técnica em Desenvolvimento de Sistemas (SENAI-SP)
+### **Unidade Curricular:** Programação para Dispositivos Móveis (PPDM)
+
+---
+
+## 👥 Identificação da Equipe e Turma
+* **Unidade:** SENAI-SP (Serviço Nacional de Aprendizagem Industrial)
+* **Curso:** Técnico em Desenvolvimento de Sistemas
+* **Componentes da Equipe:**
+  * Airam D' Avilla Costa
+  * João Marcelo Monteiro de Oliveira
+  * Pietro Dipiassa Araya Tapia
+
+---
+
 ---
 
 ## 📱 Fluxo de Telas (Navegação Interna)
